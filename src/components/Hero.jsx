@@ -118,7 +118,7 @@ Launching Soon          </p>
 
         <div className="flex items-center gap-3 font-mono text-[9px] sm:text-xs font-black tracking-[0.3em] text-neutral-400 uppercase pt-2 bg-[#000000] w-full justify-center relative z-10">
           <span className="text-amber-400 font-black">13 JUNE 2026</span>
-          <span className="text-neutral-800">//</span>
+          <span className="text-neutral-800">|</span>
           <span className="text-neutral-200">JOIN THE EXPERIENCE</span>
         </div>
       </div>
