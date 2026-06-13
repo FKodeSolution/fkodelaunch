@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fkodelaunch/static/css/main.cd2e4c34.css",
+    "main.js": "/fkodelaunch/static/js/main.2420bf31.js",
+    "static/js/453.117b0875.chunk.js": "/fkodelaunch/static/js/453.117b0875.chunk.js",
+    "static/media/logo.png": "/fkodelaunch/static/media/logo.5168018d14a1e2bd9cb0.png",
+    "index.html": "/fkodelaunch/index.html",
+    "main.cd2e4c34.css.map": "/fkodelaunch/static/css/main.cd2e4c34.css.map",
+    "main.2420bf31.js.map": "/fkodelaunch/static/js/main.2420bf31.js.map",
+    "453.117b0875.chunk.js.map": "/fkodelaunch/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2e4c34.css",
+    "static/js/main.2420bf31.js"
+  ]
+}
