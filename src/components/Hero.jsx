@@ -3,7 +3,7 @@ import logo from "./logo.png";
 
 const FKodeCountdown = () => {
   const calculateTimeLeft = () => {
-    const difference = +new Date("2026-06-13T13:30:00+05:30") - +new Date();
+    const difference = +new Date("2026-06-13T14:40:00+05:30") - +new Date();
     let timeLeft = { days: "00", hours: "00", minutes: "00", seconds: "00" };
 
     if (difference > 0) {
